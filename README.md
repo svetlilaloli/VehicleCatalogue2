@@ -1,3 +1,6 @@
+Console application<br/>
+Objects and Classes - Exercise<br/>
+
 # Vehicle Catalogue
 You have to create a vehicle catalogue. You will store only two types of vehicles – a **car** and a **truck**. Until you receive the **“End”** command you will be receiving **lines** of **input** in the following format:<br/><br/>
 **{typeOfVehicle} {model} {color} {horsepower}**<br/><br/>
